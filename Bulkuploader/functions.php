@@ -6,7 +6,7 @@
  * @link      http://www.open-emr.org
  * @author    Guruprasad K Murthy <guruprasad.km@gmail.com>
  * @copyright Copyright (c) 2020 KITB Technical Labs
- * @license   https://github.com/kitbtechlabs/KITB-OPEN-ERM-Modules/blob/master/OPEN%20EMR%20Modules/Bulkuploader/LICENSE
+ * @license   https://github.com/kitbtechlabs/KITB-OPEN-ERM-Modules/blob/master/Bulkuploader/LICENSE
  */
 
 function updatePatientDataOld($data) {
