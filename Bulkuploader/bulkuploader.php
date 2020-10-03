@@ -4,8 +4,8 @@
  *
  * @package   OpenEMR
  * @link      http://www.open-emr.org
- * @author    Guruprasad K Murthy <guruprasad.km@gmail.com>
- * @copyright Copyright (c) 2020-25 KITB Technical Labs
+ * @copyright Copyright (c) 2020 KITB Technical Labs
+ * @license   https://github.com/kitbtechlabs/KITB-OPEN-ERM-Modules/blob/master/OPEN%20EMR%20Modules/Bulkuploader/LICENSE
  */
 
 require_once(dirname(__FILE__) . "../../../../globals.php");
