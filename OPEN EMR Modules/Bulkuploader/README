@@ -1,0 +1,13 @@
+Bulkuploader Module:
+
+This module is developed for OPEN EMR and is used to do bulk upload of data into the EMR system. Currently it supports the bulk import of the Patient data into the EMR system.
+
+Following are more details about this module.
+
+1. This module needs to be deployed in the [OPEN EMR Root Folder]/interface/modules/custom_modules/ folder.
+2. Currently this module can upload basic Patient data into the system.
+3. This module adds, edits and deletes the Patient records
+4. If the External ID is new a new Patient record is added, If it is existing one it will edit and if the First name, Middle name and Last name field in thw CSV file is removed this will delete the patient record.
+5. Find the Import data file format both in excel and csv format in the folder dataformat/ folder.
+6. The menu needs to be added as per the item is added in the file _MenuEntry/standard.json file in the main site.
+

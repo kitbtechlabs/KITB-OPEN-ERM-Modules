@@ -1,0 +1,3 @@
+insert into `modules_settings` (`mod_id`, `fld_type`, `obj_name`, `menu_name`, `path`) values((select mod_id from modules where mod_name='Bulkuploader Module'),'3','main','Bulk Upload','interface/modules/custom_modules/Bulkuploader/index.php');
+insert into `modules_settings` (`mod_id`, `fld_type`, `obj_name`, `menu_name`, `path`) values((select mod_id from modules where mod_name='Bulkuploader Module'),'1','main','Bulk Upload','interface/modules/custom_modules/Bulkuploader/index.php');
+insert into `modules_settings` (`mod_id`, `fld_type`, `obj_name`, `menu_name`, `path`) values((select mod_id from modules where mod_name='Bulkuploader Module'),'2','main','Bulk Upload','interface/modules/custom_modules/Bulkuploader/index.php');
